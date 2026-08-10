@@ -1,6 +1,8 @@
 # CV templates and phrasing patterns
 
-## Recommended one-page structure
+## Canonical current-template structure
+
+Use this structure as the user's current and only approved CV template. Do not generate or recommend alternate visual skins unless the user explicitly requests a redesign.
 
 ```text
 NAME
