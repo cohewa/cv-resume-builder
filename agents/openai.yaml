@@ -1,0 +1,4 @@
+interface:
+  display_name: "CV Resume Builder"
+  short_description: "Build ATS-ready, evidence-based CVs"
+  default_prompt: "Use $cv-resume-builder to create or tailor an ATS-ready CV from my evidence and a target role."
