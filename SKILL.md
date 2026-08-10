@@ -24,9 +24,11 @@ Build concise, truthful, results-first CVs that a recruiter can scan quickly and
 ### 0. Use Google Docs as the default CV workspace
 
 - Create every new CV directly in Google Docs unless the user explicitly requests another format.
+- Before creating or changing a Google Doc, confirm the intended document/destination when it is not already identified. If Google Docs access or a connected account is unavailable, explain the blocker and offer a local text/DOCX draft only after the user approves the fallback.
 - For an existing CV supplied as a Google Doc, DOCX, PDF, or pasted text, read and analyze it before editing. Preserve the approved document's layout when the user asks for text-only changes.
 - Before drafting or changing content, provide (or record internally) an ATS review and recruiter-risk review: parsing/format risks, keyword gaps, unclear attribution, unsupported metrics, missing links, chronology issues, work-authorization ambiguity, and other red flags.
 - After edits, re-read the Google Doc and verify headings, links, dates, metrics, text order, and that the document remains selectable and ATS-readable. Export a searchable PDF or DOCX only when requested or required by the vacancy.
+- If the current approved visual template is not available in context, ask for its Google Docs link or state that the previously approved structure will be used; do not invent a replacement template.
 
 ### 1. Reconcile the evidence
 
@@ -38,7 +40,7 @@ Route the intake before collecting or rewriting content:
 
 - **Existing CV uploaded:** extract it, map it into a structured evidence record, run ATS/recruiter diagnosis, and wait for approval before changing wording.
 - **LinkedIn URL:** attempt one direct read. If login or access blocks it, ask for a LinkedIn PDF export or pasted sections; never pretend that an inaccessible profile was read.
-- **No CV / build from scratch:** conduct a one-question-at-a-time interview, completing one role or project before moving to the next.
+- **No CV / build from scratch:** conduct a one-question-at-a-time interview, completing one role or project before moving to the next. Start by clarifying target role, remote/contract/freelance versus employee preference, and any work-authorization or sponsorship constraint that affects positioning.
 
 Use a compact structured record for every role or project: employer/product, role, dates, mission, actions, outcome, metric, attribution, evidence source, confidentiality status, tools, and open questions. Re-display the record before drafting and list every number separately for confirmation.
 
