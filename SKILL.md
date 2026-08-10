@@ -17,6 +17,7 @@ Build concise, truthful, results-first CVs that a recruiter can scan quickly and
 - Before editing an existing artifact, create a copy. Preserve font sizes, colors, spacing, margins, section order, and one-column layout unless the user explicitly approves a redesign. Change text only when that is the instruction.
 - Ask only unresolved, decision-critical questions. If a claim cannot be verified, use a safe placeholder or flag it instead of guessing.
 - Do not include photos, logos, graphics, skill bars, tables, columns, headers, footers, or decorative symbols in an ATS version.
+- Use the user's current approved CV template as the only visual template. Do not offer or add alternative resume templates unless the user explicitly asks to redesign the layout.
 
 ## Workflow
 
@@ -33,6 +34,14 @@ Collect the current CV, LinkedIn/profile data, portfolio/project notes, target j
 
 Resolve conflicts before drafting. Keep the strongest verified numbers, but retain contribution wording for team outcomes. For sensitive figures, use a qualitative result, percentage/range approved for external use, or a clearly labeled forecast.
 
+Route the intake before collecting or rewriting content:
+
+- **Existing CV uploaded:** extract it, map it into a structured evidence record, run ATS/recruiter diagnosis, and wait for approval before changing wording.
+- **LinkedIn URL:** attempt one direct read. If login or access blocks it, ask for a LinkedIn PDF export or pasted sections; never pretend that an inaccessible profile was read.
+- **No CV / build from scratch:** conduct a one-question-at-a-time interview, completing one role or project before moving to the next.
+
+Use a compact structured record for every role or project: employer/product, role, dates, mission, actions, outcome, metric, attribution, evidence source, confidentiality status, tools, and open questions. Re-display the record before drafting and list every number separately for confirmation.
+
 ### 2. Choose positioning
 
 For a master CV, use the broadest truthful role that matches the candidate's target market. For a tailored CV, mirror the vacancy's role title, domain terms, seniority language, and tools only when supported by evidence.
@@ -42,6 +51,8 @@ Use this Summary formula:
 > `[Role] with [years] across [domains/skills]. [Launched/led outcome summary]. [How the candidate creates value and works].`
 
 Keep it to 3-4 lines. Prefer concrete scope and impact over personality claims. Expand an acronym on first use only when the audience or ATS requires it; common terms such as B2B, B2C, SaaS, UX, and ARPU may remain abbreviated in a compact master CV.
+
+For a conversational build, ask one focused question at a time in this order: target role and availability; contact/links; each experience entry; projects; education and professional development; skills and languages. Read back each completed role and confirm its wording and numbers before continuing.
 
 ### 3. Structure experience
 
@@ -62,6 +73,8 @@ Cut [cycle/time] to [duration] by independently [action] with [tool/method].
 
 Use personal ownership verbs precisely: `originated`, `proposed`, `designed`, `led`, `owned`, `validated`, `partnered`, `contributed to`. Avoid `responsible for`, `helped with`, and vague process lists unless no stronger evidence exists.
 
+Use consistent date format and tense: `MMM YYYY` or `YYYY-MM` throughout; present tense for current roles and past tense for completed roles. Keep experience, education, and projects in reverse chronological order.
+
 ### 4. Make it ATS-friendly
 
 Use standard headings: `SUMMARY`, `SKILLS`, `PROFESSIONAL EXPERIENCE`, `PROJECTS`, `EDUCATION`, `PROFESSIONAL DEVELOPMENT`, and `LANGUAGES` when needed. Use searchable text, conventional bullets, direct URLs, and a selectable-text PDF or DOCX. Keep acronyms and their expanded forms when a target job uses both. See `references/ats-and-role-tailoring.md`.
@@ -80,6 +93,7 @@ For an uploaded or existing CV, return recommendations before making changes whe
 - For an existing Google Doc/DOCX/PDF, create a copy first, apply only approved changes in Google Docs when possible, read back the result, and verify that links, headings, lists, and text order are intact.
 - Export a selectable PDF and, when useful, DOCX. Check plain-text extraction for contact details, headings, dates, role titles, metrics, acronyms, and URLs. If visual rendering cannot be inspected, state that limitation explicitly.
 - Do not submit, publish, email, or upload the CV without explicit user approval.
+- Before final delivery, present a short change log and an approval gate covering facts, dates, metrics, attribution, confidentiality, links, and work-authorization wording.
 
 ## References
 
