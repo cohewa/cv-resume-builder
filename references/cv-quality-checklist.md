@@ -9,6 +9,8 @@ Run this checklist for every master or tailored CV.
 - [ ] Personal ownership is clear; team results use `contributed to` when attribution is shared.
 - [ ] Forecasts use `potential`, `projected`, or `by [year]`; they never read like realized revenue.
 - [ ] Company scale and audience figures are public, current enough, or removed.
+- [ ] Every number in the draft was separately surfaced and confirmed, or marked `[to confirm]`/removed.
+- [ ] Confidential or NDA-sensitive details are generalized without exposing internal names, revenue, or experiment data.
 
 ## Positioning and content
 
@@ -18,6 +20,8 @@ Run this checklist for every master or tailored CV.
 - [ ] Each major role has a mission/ownership line plus 2-4 concise, results-first bullets.
 - [ ] Product, domain, research, experimentation, and collaboration keywords appear in both Skills and relevant experience where natural.
 - [ ] Portfolio, LinkedIn, and other links are complete, direct, and working.
+- [ ] The intake path is clear: existing CV diagnosis, LinkedIn fallback, or one-question-at-a-time build.
+- [ ] The current approved visual template is used; no unrequested template alternatives were introduced.
 
 ## ATS and formatting
 
@@ -36,3 +40,5 @@ Run this checklist for every master or tailored CV.
 - [ ] No unexplained gaps, overlapping dates, or chronology contradictions.
 - [ ] No overly broad “do everything” profile when a focused target role is expected.
 - [ ] No metric whose baseline, period, or attribution is impossible to explain in an interview.
+- [ ] Date format, tense, punctuation, and chronology are consistent.
+- [ ] Public sharing has been checked for unnecessary phone, address, or other personal data.
