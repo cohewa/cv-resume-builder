@@ -22,6 +22,7 @@ Run this checklist for every master or tailored CV.
 - [ ] Portfolio, LinkedIn, and other links are complete, direct, and working.
 - [ ] The intake path is clear: existing CV diagnosis, LinkedIn fallback, or one-question-at-a-time build.
 - [ ] The current approved visual template is used; no unrequested template alternatives were introduced.
+- [ ] Google Docs destination/access was confirmed, or an explicitly approved fallback was used.
 
 ## ATS and formatting
 
@@ -36,6 +37,7 @@ Run this checklist for every master or tailored CV.
 ## Recruiter red flags
 
 - [ ] No unexplained work-authorization implication or false sponsorship claim.
+- [ ] Engagement type (employee, contract, freelance) and work-authorization constraints were surfaced early and worded neutrally.
 - [ ] No title inflation or unsupported “Founding/Lead” positioning.
 - [ ] No unexplained gaps, overlapping dates, or chronology contradictions.
 - [ ] No overly broad “do everything” profile when a focused target role is expected.
