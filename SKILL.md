@@ -20,6 +20,13 @@ Build concise, truthful, results-first CVs that a recruiter can scan quickly and
 
 ## Workflow
 
+### 0. Use Google Docs as the default CV workspace
+
+- Create every new CV directly in Google Docs unless the user explicitly requests another format.
+- For an existing CV supplied as a Google Doc, DOCX, PDF, or pasted text, read and analyze it before editing. Preserve the approved document's layout when the user asks for text-only changes.
+- Before drafting or changing content, provide (or record internally) an ATS review and recruiter-risk review: parsing/format risks, keyword gaps, unclear attribution, unsupported metrics, missing links, chronology issues, work-authorization ambiguity, and other red flags.
+- After edits, re-read the Google Doc and verify headings, links, dates, metrics, text order, and that the document remains selectable and ATS-readable. Export a searchable PDF or DOCX only when requested or required by the vacancy.
+
 ### 1. Reconcile the evidence
 
 Collect the current CV, LinkedIn/profile data, portfolio/project notes, target job description, dates, roles, tools, metrics, and constraints. Build an internal evidence map with source and status; do not persist private evidence in the final CV. Read `references/evidence-and-metrics.md` when metrics, NDA, attribution, or work authorization are involved.
@@ -65,10 +72,12 @@ Keep Skills focused and deduplicated. Organize them into a small number of keywo
 
 Check for: missing portfolio, unclear work authorization, unexplained date gaps, inflated titles, ambiguous attribution, forecast presented as revenue, unsupported company scale, generic skills, poor English, excessive length, and a mismatch between the Summary and target role. Never hide a material authorization constraint; use a neutral CV line and answer application questions accurately. Do not imply that freelance/1099 work is automatically permitted in a jurisdiction.
 
+For an uploaded or existing CV, return recommendations before making changes when the user has not yet approved edits. Separate findings into ATS, recruiter/readability, evidence/metrics, and content/positioning recommendations. Apply changes only after approval, and keep a copy of the source document.
+
 ### 6. Deliver and verify
 
 - For text-only requests, return the proposed copy and a short change log.
-- For an existing Google Doc/DOCX, create a copy first, apply only approved changes, read back the result, and verify that links, headings, lists, and text order are intact.
+- For an existing Google Doc/DOCX/PDF, create a copy first, apply only approved changes in Google Docs when possible, read back the result, and verify that links, headings, lists, and text order are intact.
 - Export a selectable PDF and, when useful, DOCX. Check plain-text extraction for contact details, headings, dates, role titles, metrics, acronyms, and URLs. If visual rendering cannot be inspected, state that limitation explicitly.
 - Do not submit, publish, email, or upload the CV without explicit user approval.
 
