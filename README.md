@@ -1,5 +1,19 @@
 # CV Resume Builder
 
+<p align="center">
+  <strong>Evidence-first, ATS-ready CVs for international Product Designers.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/cohewa/cv-resume-builder"><img src="https://img.shields.io/badge/Codex-Skill-111827?style=flat-square" alt="Codex Skill"></a>
+  <a href="https://github.com/cohewa/cv-resume-builder"><img src="https://img.shields.io/badge/Claude-Compatible-7c3aed?style=flat-square" alt="Claude Compatible"></a>
+  <a href="https://github.com/cohewa/cv-resume-builder"><img src="https://img.shields.io/badge/Google%20Docs-First-4285f4?style=flat-square" alt="Google Docs First"></a>
+  <a href="https://github.com/cohewa/cv-resume-builder"><img src="https://img.shields.io/badge/ATS-Checked-16a34a?style=flat-square" alt="ATS Checked"></a>
+  <a href="https://github.com/cohewa/cv-resume-builder"><img src="https://img.shields.io/badge/Template-One%20Canonical-f97316?style=flat-square" alt="One Canonical Template"></a>
+</p>
+
+> 🎯 A focused CV workflow for Product Designers: verified evidence → measurable XYZ bullets → ATS and recruiter review → approval → Google Docs delivery.
+
 An evidence-based CV skill for Product Designers and adjacent product roles. It turns raw career information, an existing CV, or a LinkedIn profile into a concise, results-first CV prepared in the user's approved Google Docs format.
 
 ![Preview of the canonical Google Docs CV layout](assets/cv-preview.svg)
