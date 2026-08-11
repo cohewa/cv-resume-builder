@@ -1,4 +1,4 @@
 interface:
   display_name: "CV Resume Builder"
-  short_description: "Build ATS-ready, evidence-based CVs"
-  default_prompt: "Use $cv-resume-builder to create or tailor an ATS-ready CV from my evidence and a target role."
+  short_description: "Create Google Docs CVs with ATS and recruiter review"
+  default_prompt: "Use $cv-resume-builder to create or tailor my CV automatically in Google Docs. Preserve the current template's exact fonts and red inline recommendations. Return ATS risks, recruiter red flags, and still-needed items in chat only; do not add those sections to the CV."
