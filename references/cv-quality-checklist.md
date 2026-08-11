@@ -23,6 +23,10 @@ Run this checklist for every master or tailored CV.
 - [ ] The intake path is clear: existing CV diagnosis, LinkedIn fallback, or one-question-at-a-time build.
 - [ ] The current approved visual template is used; no unrequested template alternatives were introduced.
 - [ ] Google Docs destination/access was confirmed, or an explicitly approved fallback was used.
+- [ ] The exact font family and typography from the current approved CV were preserved; no substitute font was introduced.
+- [ ] Existing approved red inline recommendations were preserved in the working Google Doc.
+- [ ] `ATS risks`, `Recruiter red flags`, and `Still needed to finalize` appear in the chat report only, never as CV sections.
+- [ ] Once facts and numbers were approved, the CV was created or updated automatically in Google Docs and its link was returned.
 
 ## ATS and formatting
 
