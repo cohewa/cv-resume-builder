@@ -85,3 +85,7 @@ python3 scripts/validate_resume.py path/to/extracted_resume.txt
 ```
 
 The validator is a lightweight structural check. It does not replace evidence review, ATS inspection, or visual verification in Google Docs.
+
+---
+
+Created by [Sofia Koniukhova](https://www.linkedin.com/in/cohewa/)
