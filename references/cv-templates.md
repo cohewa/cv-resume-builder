@@ -4,6 +4,13 @@
 
 Use this structure as the user's current and only approved CV template. Do not generate or recommend alternate visual skins unless the user explicitly requests a redesign.
 
+Template fidelity rules:
+
+- Inspect the current CV/Google Doc and copy its existing font family, sizes, weights, colors, spacing, and one-column geometry. Do not introduce a substitute font.
+- Preserve approved red inline recommendations in the working draft. These concise annotations belong beside the relevant claim and are separate from the chat-only ATS/red-flag report.
+- Never place `ATS risks`, `Recruiter red flags`, or `Still needed to finalize` sections in the CV. Return those findings in chat.
+- Create the approved CV directly in Google Docs after the intake and approval gate; do not require manual copy/paste.
+
 ```text
 NAME
 Target role · location/availability · email · phone · LinkedIn · portfolio
