@@ -4,33 +4,33 @@
   <circle cx="75" cy="70" r="12" fill="#4285f4"/>
   <text x="105" y="78" font-family="Arial, sans-serif" font-size="20" fill="#3c4043">Google Docs · CV Resume Builder preview</text>
   <rect x="200" y="145" width="800" height="1280" fill="#ffffff" stroke="#d9d9d9"/>
-  <text x="600" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#111111">FIRST NAME LAST NAME</text>
-  <text x="600" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">Product Designer · Remote · email@example.com · LinkedIn · Portfolio</text>
+  <text x="600" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#111111">JORDAN LEE</text>
+  <text x="600" y="230" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" fill="#222222">Senior Product Designer · Remote · jordan.lee@example.com · LinkedIn · Portfolio</text>
   <line x1="260" y1="255" x2="940" y2="255" stroke="#111111" stroke-width="2"/>
   <text x="260" y="290" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111111">SUMMARY</text>
-  <text x="260" y="320" font-family="Arial, sans-serif" font-size="13" fill="#222222">Product Designer with 6+ years across B2B SaaS, marketplaces, and</text>
-  <text x="260" y="341" font-family="Arial, sans-serif" font-size="13" fill="#222222">real estate. Launches 0-to-1 products and turns ambiguity into</text>
-  <text x="260" y="362" font-family="Arial, sans-serif" font-size="13" fill="#222222">validated, measurable experiences.</text>
+  <text x="260" y="320" font-family="Arial, sans-serif" font-size="13" fill="#222222">Senior Product Designer with 8+ years shipping AI-enabled SaaS</text>
+  <text x="260" y="341" font-family="Arial, sans-serif" font-size="13" fill="#222222">and workflow products. Turns ambiguous product questions into</text>
+  <text x="260" y="362" font-family="Arial, sans-serif" font-size="13" fill="#222222">clear, tested experiences and measurable growth.</text>
   <text x="260" y="405" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111111">SKILLS</text>
-  <text x="260" y="433" font-family="Arial, sans-serif" font-size="13" fill="#222222">Product &amp; Research: End-to-End Product Design · 0-to-1 · MVP Validation</text>
-  <text x="260" y="454" font-family="Arial, sans-serif" font-size="13" fill="#222222">Tools &amp; Methods: Figma · Framer · Usability Testing · A/B Testing</text>
-  <text x="260" y="475" font-family="Arial, sans-serif" font-size="13" fill="#222222">Ownership: Independent Design Ownership · PM/Engineering Partnership</text>
+  <text x="260" y="433" font-family="Arial, sans-serif" font-size="13" fill="#222222">Product &amp; Research: Product Strategy · Discovery · 0-to-1 · AI Product Design</text>
+  <text x="260" y="454" font-family="Arial, sans-serif" font-size="13" fill="#222222">Tools &amp; Methods: Figma · FigJam · Prototyping · Usability Testing · A/B Testing</text>
+  <text x="260" y="475" font-family="Arial, sans-serif" font-size="13" fill="#222222">Ownership: Design Systems · Cross-Functional Leadership · PM/Engineering Partnership</text>
   <line x1="260" y1="500" x2="940" y2="500" stroke="#111111" stroke-width="2"/>
   <text x="260" y="535" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111111">PROFESSIONAL EXPERIENCE</text>
-  <text x="260" y="575" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111111">Company · Product Designer</text>
-  <text x="940" y="575" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#222222">Jan 2025–Present</text>
-  <text x="260" y="598" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#333333">Company context: sector · product type · scale</text>
-  <circle cx="270" cy="632" r="3" fill="#111111"/><text x="285" y="637" font-family="Arial, sans-serif" font-size="13" fill="#222222">Increased [metric] by [X%] by redesigning [experience] and validating</text>
-  <text x="285" y="658" font-family="Arial, sans-serif" font-size="13" fill="#222222">the solution with users and product analytics.</text>
-  <circle cx="270" cy="692" r="3" fill="#111111"/><text x="285" y="697" font-family="Arial, sans-serif" font-size="13" fill="#222222">Launched a 0-to-1 MVP by shaping the hypothesis, buyer journey, and</text>
-  <text x="285" y="718" font-family="Arial, sans-serif" font-size="13" fill="#222222">cross-functional delivery.</text>
-  <text x="260" y="770" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111111">Previous Company · Product Designer</text>
-  <text x="940" y="770" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#222222">Oct 2023–Dec 2024</text>
-  <circle cx="270" cy="806" r="3" fill="#111111"/><text x="285" y="811" font-family="Arial, sans-serif" font-size="13" fill="#222222">Contributed to a [result] by designing an end-to-end workflow and</text>
-  <text x="285" y="832" font-family="Arial, sans-serif" font-size="13" fill="#222222">automating feedback collection.</text>
+  <text x="260" y="575" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111111">Northstar Labs · Senior Product Designer</text>
+  <text x="940" y="575" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#222222">Mar 2022–Present</text>
+  <text x="260" y="598" font-family="Arial, sans-serif" font-size="12" font-style="italic" fill="#333333">B2B SaaS platform for collaborative operations · 500+ customers</text>
+  <circle cx="270" cy="632" r="3" fill="#111111"/><text x="285" y="637" font-family="Arial, sans-serif" font-size="13" fill="#222222">Increased activation 28% by redesigning onboarding and validating</text>
+  <text x="285" y="658" font-family="Arial, sans-serif" font-size="13" fill="#222222">the experience through usability testing and product analytics.</text>
+  <circle cx="270" cy="692" r="3" fill="#111111"/><text x="285" y="697" font-family="Arial, sans-serif" font-size="13" fill="#222222">Launched an AI-assisted workflow MVP from 0 to 1, reducing task</text>
+  <text x="285" y="718" font-family="Arial, sans-serif" font-size="13" fill="#222222">completion time 35% through iterative prototyping.</text>
+  <text x="260" y="770" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111111">Orbit Commerce · Product Designer</text>
+  <text x="940" y="770" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#222222">Jul 2019–Feb 2022</text>
+  <circle cx="270" cy="806" r="3" fill="#111111"/><text x="285" y="811" font-family="Arial, sans-serif" font-size="13" fill="#222222">Improved checkout conversion 14% by simplifying the purchase flow</text>
+  <text x="285" y="832" font-family="Arial, sans-serif" font-size="13" fill="#222222">and partnering with product and engineering on delivery.</text>
   <line x1="260" y1="875" x2="940" y2="875" stroke="#111111" stroke-width="2"/>
   <text x="260" y="910" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#111111">EDUCATION &amp; PROFESSIONAL DEVELOPMENT</text>
-  <text x="260" y="945" font-family="Arial, sans-serif" font-size="13" fill="#222222">Bachelor of Science in Chemistry · University · 2018–2022</text>
-  <text x="260" y="975" font-family="Arial, sans-serif" font-size="13" fill="#222222">Relevant courses and certifications · Languages: English B2</text>
+  <text x="260" y="945" font-family="Arial, sans-serif" font-size="13" fill="#222222">Master of Fine Arts in Interaction Design · State University · 2017–2019</text>
+  <text x="260" y="975" font-family="Arial, sans-serif" font-size="13" fill="#222222">NN/g UX Certification · Product Analytics Certificate · English: Fluent</text>
   <text x="600" y="1375" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#6b7280">Canonical one-column, monochrome, ATS-readable Google Docs layout</text>
 </svg>
