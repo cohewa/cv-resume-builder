@@ -15,6 +15,8 @@ Build concise, truthful, results-first CVs that a recruiter can scan quickly and
 - Use the XYZ pattern for experience bullets: **result/impact -> action/ownership -> measurement or evidence**. Start with a strong verb when the result cannot naturally come first.
 - Separate evidence types: `achieved`, `contributed to`, `team outcome`, `forecast/potential`, and `NDA-sensitive`. Never convert a forecast, team result, or projected opportunity into an achieved personal result.
 - Before editing an existing artifact, create a copy. Preserve font sizes, colors, spacing, margins, section order, and one-column layout unless the user explicitly approves a redesign. Change text only when that is the instruction.
+- Typography is part of the approved template: inspect the current CV/Google Doc and use only its existing font family and styles. Never substitute Arial, Calibri, Times New Roman, or another default unless that font is already present in the approved CV or the user explicitly approves a typography change.
+- Preserve the current CV's red inline recommendations/annotations when they are part of the working draft. They are review-layer guidance, not ATS content; do not silently remove or recolor them.
 - Ask only unresolved, decision-critical questions. If a claim cannot be verified, use a safe placeholder or flag it instead of guessing.
 - Do not include photos, logos, graphics, skill bars, tables, columns, headers, footers, or decorative symbols in an ATS version.
 - Use the user's current approved CV template as the only visual template. Do not offer or add alternative resume templates unless the user explicitly asks to redesign the layout.
@@ -24,10 +26,13 @@ Build concise, truthful, results-first CVs that a recruiter can scan quickly and
 ### 0. Use Google Docs as the default CV workspace
 
 - Create every new CV directly in Google Docs unless the user explicitly requests another format.
+- Once the intake is complete and the required facts and numbers are approved, automatically create the CV in the connected Google Docs destination using the current approved template. Return the document link; do not require manual copy/paste.
 - Before creating or changing a Google Doc, confirm the intended document/destination when it is not already identified. If Google Docs access or a connected account is unavailable, explain the blocker and offer a local text/DOCX draft only after the user approves the fallback.
 - For an existing CV supplied as a Google Doc, DOCX, PDF, or pasted text, read and analyze it before editing. Preserve the approved document's layout when the user asks for text-only changes.
-- Before drafting or changing content, provide (or record internally) an ATS review and recruiter-risk review: parsing/format risks, keyword gaps, unclear attribution, unsupported metrics, missing links, chronology issues, work-authorization ambiguity, and other red flags.
+- Before drafting or changing content, prepare an ATS review and recruiter-risk review. Return `ATS risks`, `Recruiter red flags`, and `Still needed to finalize` as text in the chat only. Never add these headings or their diagnostic bullets to the CV itself.
+- Keep approved red inline recommendations inside the working CV when they clarify an unresolved claim. Use concise red annotations near the relevant line; do not turn the chat-only diagnostic sections into CV sections.
 - After edits, re-read the Google Doc and verify headings, links, dates, metrics, text order, and that the document remains selectable and ATS-readable. Export a searchable PDF or DOCX only when requested or required by the vacancy.
+- Verify that the document uses the exact existing font family from the approved template and that preserved red recommendations remain visible in the Google Doc.
 - If the current approved visual template is not available in context, ask for its Google Docs link or state that the previously approved structure will be used; do not invent a replacement template.
 
 ### 1. Reconcile the evidence
@@ -93,6 +98,7 @@ For an uploaded or existing CV, return recommendations before making changes whe
 
 - For text-only requests, return the proposed copy and a short change log.
 - For an existing Google Doc/DOCX/PDF, create a copy first, apply only approved changes in Google Docs when possible, read back the result, and verify that links, headings, lists, and text order are intact.
+- Do not place ATS findings, recruiter red flags, or outstanding-information checklists in the CV; include them in the chat response and change log only. The CV may retain concise red inline recommendations from the approved working-draft convention.
 - Export a selectable PDF and, when useful, DOCX. Check plain-text extraction for contact details, headings, dates, role titles, metrics, acronyms, and URLs. If visual rendering cannot be inspected, state that limitation explicitly.
 - Do not submit, publish, email, or upload the CV without explicit user approval.
 - Before final delivery, present a short change log and an approval gate covering facts, dates, metrics, attribution, confidentiality, links, and work-authorization wording.
@@ -107,3 +113,4 @@ For an uploaded or existing CV, return recommendations before making changes whe
 ## Validation script
 
 Run `scripts/validate_resume.py path/to/extracted_resume.txt` after exporting or drafting plain text. It checks required headings, common placeholder leakage, malformed Skills tokens, and basic contact/metric presence; it does not replace human or visual review.
+
